@@ -1,0 +1,25 @@
+{
+  "name": "backend",
+  "version": "0.0.0",
+  "private": true,
+  "description": "Url Monitoring Service",
+  "scripts": {
+    "start": "node ./bin/www"
+  },
+  "repository": {
+    "type": "git",
+    "url": ""
+  },
+  "author": "Sumit Bopche",
+  "license": "ISC",
+  "dependencies": {
+    "body-parser": "~1.17.1",
+    "cookie-parser": "~1.4.3",
+    "cors": "2.8.5",
+    "debug": "~2.6.3",
+    "express": "~4.15.2",
+    "mongoose": "5.3.15",
+    "morgan": "~1.8.1",
+    "request": "2.88.0"
+  }
+}
