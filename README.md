@@ -12,6 +12,6 @@ Make sure :-
 
 ### Steps 
 
-,,,
+```
 git clone https://github.com/sumya01/Url-Monitoring-System.git
-,,,
+```
