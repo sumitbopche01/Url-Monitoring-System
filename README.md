@@ -8,3 +8,10 @@ NodeJs based project to let user enter the url request details and monitor the r
 Make sure :-
 * NodeJs is installed.
 * MongoDB is installed and service is running in the background
+* Internet Connection
+
+### Steps 
+
+,,,
+git clone https://github.com/sumya01/Url-Monitoring-System.git
+,,,
