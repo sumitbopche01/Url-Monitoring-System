@@ -12,6 +12,24 @@ Make sure :-
 
 ### Steps 
 
+
 ```
 git clone https://github.com/sumya01/Url-Monitoring-System.git
+```
+#### Start Backend Service
+```
+cd Url-Monitoring-System/backend/
+```
+```
+npm install && npm start
+```
+#### Start Frontend Service
+
+Open New Terminal
+
+```
+cd Url-Monitoring-System/frontend/
+```
+```
+npm install && npm start
 ```
