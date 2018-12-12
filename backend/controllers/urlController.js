@@ -17,7 +17,7 @@ function saveUrlInfo(req, res, next){
             _id: savedToMongo._id
         }
         urlMonitor();
-        return res.status(200).send(response)
+        return res.status(201).send(response)
     })
     .catch(next)
 
