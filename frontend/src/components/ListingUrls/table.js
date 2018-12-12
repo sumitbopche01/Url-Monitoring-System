@@ -24,8 +24,8 @@ class TableList extends Component {
         return(
             <div>
                 <div className = {classes.registrationHeading}>
-                   <h1 className={classes.toggleHeading}>For Adding Url Details: </h1> <button className = {classes.clickHereButton} onClick= {this.toggleDiv}> 
-                        Click Here
+                    <button className = {classes.clickHereButton} onClick= {this.toggleDiv}> 
+                        Add Url
                     </button>
                 </div>
                 <div>{this.state.show && <Registration /> }</div>
